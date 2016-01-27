@@ -1,0 +1,22 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "test-1",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aravindgg55/Learning-Node.js.git"
+  },
+  "author": "aravind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aravindgg55/Learning-Node.js/issues"
+  },
+  "homepage": "https://github.com/aravindgg55/Learning-Node.js#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
